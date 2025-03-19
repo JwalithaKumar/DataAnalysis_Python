@@ -7,8 +7,10 @@ Exploratory data Analysis
    EDA Techniques:
           1.	Checking Basic Information
           •	Use Info()
+          
           2.	Checking Missing values
           •	Check null values and drop the rows
+          
           3.	Summary Statistics
           •	Use Describe()
           •	Using the IQR Method (Interquartile Range)
@@ -17,6 +19,7 @@ Exploratory data Analysis
           - Lower Bound = Q1−1.5×IQR
           - Upper Bound = Q3+1.5×IQR
           - Any data point below the lower bound or above the upper bound is an outlier.
+          
           4.	Visualization:
           4.1.	Histogram
           What it does?
@@ -37,6 +40,7 @@ Exploratory data Analysis
           •	Identifies strongly related features (e.g., Years of Experience vs. Age).
           •	Helps in feature selection for machine learning.
           •	Detects multicollinearity, which can impact predictive modeling.
+          
           4.3.	Boxplot
           What it does?
           •	A boxplot summarizes distribution and detects outliers in numerical data.
