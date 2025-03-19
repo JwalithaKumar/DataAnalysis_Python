@@ -1,7 +1,9 @@
 # DataAnalysis_Python
 Exploratory data Analysis
+
     Exploratory Data Analysis (EDA) helps in understanding the dataset through various techniques 
     like visualization, summary statistics, and feature relationships
+    
    EDA Techniques:
           1.	Checking Basic Information
           •	Use Info()
